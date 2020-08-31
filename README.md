@@ -1,0 +1,2 @@
+# Winning-Jeopardy
+Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for a few decades, and is a major force in popular culture. Let's say a friend of mine want to compete on Jeopardy, and my job is to look for any edge I can get to help him win. In this project, I will work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help my friend win. The dataset is available on reddit.
